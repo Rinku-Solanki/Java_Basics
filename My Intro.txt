@@ -1,0 +1,1 @@
+“This repository includes beginner-friendly Java projects and exercises designed to practice and understand the fundamentals of the Java programming language. Topics include control flow, classes & objects, arrays, strings, exception handling, and more.”
